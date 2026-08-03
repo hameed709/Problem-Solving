@@ -48,6 +48,6 @@ Iterating, debugging, and refining an approach is where real learning happens.
 
 This challenge was a great reminder that the first solution isn't always the correct one—but every iteration improves your problem-solving skills.
 
-💻 GitHub: Add your repository link here
+💻 GitHub: (https://lnkd.in/d9cAENvz)
 
 #100DaysOfCode #ProblemSolving #Python #DataStructures #Algorithms #CodingChallenge #SoftwareEngineering #DeveloperJourney #LearningInPublic #Programming

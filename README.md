@@ -6,3 +6,4 @@
 
 " Day 4 : Today, i solved a problem where i need to find the longest common prefix shared by all the strings. "
 
+" Day 5 : Today, i solved a problem where i need to check whether the two strings is an anagram or not without using any built-in sorting functions. "
