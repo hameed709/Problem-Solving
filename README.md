@@ -12,4 +12,6 @@
 
 " Day 7 : Today, i solved a problem where i need to find the longest SubString in a string using Slinding Window but i used my reasoning to solve the test cases and achieved my solution. The solution works for certain test cases but fails for others but to keep up the pace i'm added this. "
 
-" Day 8 : Today, i solved a problem where i neeed to find the longest palindrome in a substring in a string. "
+" Day 8 : Today, i solved a problem where i need to find the longest palindrome in a substring in a string. "
+
+" Day 9 : Today i solved a problem where i need to find the length of the longest sequence of consecutive numbers. "
