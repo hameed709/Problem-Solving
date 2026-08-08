@@ -14,4 +14,6 @@
 
 " Day 8 : Today, i solved a problem where i need to find the longest palindrome in a substring in a string. "
 
-" Day 9 : Today i solved a problem where i need to find the length of the longest sequence of consecutive numbers. "
+" Day 9 : Today, i solved a problem where i need to find the length of the longest sequence of consecutive numbers. "
+
+" Day 10 : Today, i solved a problem where i need to return the Product of Array Except Self from the given array. "
