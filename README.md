@@ -17,3 +17,5 @@
 " Day 9 : Today, i solved a problem where i need to find the length of the longest sequence of consecutive numbers. "
 
 " Day 10 : Today, i solved a problem where i need to return the Product of Array Except Self from the given array. "
+
+"Day 11 : Today, i solved a problem where i need to find the contiguous subarray with the largest sum and return that maximum sum. "
