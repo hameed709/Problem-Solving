@@ -19,3 +19,5 @@
 " Day 10 : Today, i solved a problem where i need to return the Product of Array Except Self from the given array. "
 
 "Day 11 : Today, i solved a problem where i need to find the contiguous subarray with the largest sum and return that maximum sum. "
+
+"Day 12 : Today, i solved a problem where given an array of integers nums and an integer target, find the indices of the two numbers that add up to the target. "
