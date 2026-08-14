@@ -28,3 +28,5 @@
 
 " Day 15 : Today, i solved a problem where i have to rotate the array to the right by k steps. "
 
+" Day 16 : Today, i solved a problem where i have an array and i need to move zeros from the array to the last. "
+
