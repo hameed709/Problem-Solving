@@ -30,3 +30,5 @@
 
 " Day 16 : Today, i solved a problem where i have an array and i need to move zeros from the array to the last. "
 
+" Day 17 : Today, i solved a problem where i have to find the majority of element from an array/list without using hashmaps/dictionary or sorting , and have to use Boyer-Moore voting algorithm. "
+
