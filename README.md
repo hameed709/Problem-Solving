@@ -32,3 +32,5 @@
 
 " Day 17 : Today, i solved a problem where i have to find the majority of element from an array/list without using hashmaps/dictionary or sorting , and have to use Boyer-Moore voting algorithm. "
 
+" Day 18 : Today, i solved a problem where i need to find the best time/day to but the stocks to get the maximum profit and if none are found then return 0. "
+
