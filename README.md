@@ -36,3 +36,5 @@
 
 " Day 19 : Today, i solved a problem where i need to find the missing number from the array. "
 
+" Day 20 : Today, i solved a problem where i need to return True immediately if a duplicate number is found and otherwise return False. "
+
