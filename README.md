@@ -38,3 +38,5 @@
 
 " Day 20 : Today, i solved a problem where i need to return True immediately if a duplicate number is found and otherwise return False. "
 
+" Day 21 : Today, i solved a problem where i need to return the intersection of two arrays ."
+
