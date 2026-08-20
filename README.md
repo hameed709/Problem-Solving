@@ -40,3 +40,5 @@
 
 " Day 21 : Today, i solved a problem where i need to return the intersection of two arrays ."
 
+" Day 22 : Today, i solved a problem where i need to total number of continuous subarrays whose sum equals k. "
+
