@@ -42,3 +42,5 @@
 
 " Day 22 : Today, i solved a problem where i need to total number of continuous subarrays whose sum equals k. "
 
+" Day 22 : Today, i solved a problem where i need to find all the values that appear exactly twice in an array. "
+
