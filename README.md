@@ -48,3 +48,5 @@
 
 " Day 25 : Today, i solved a problem where i need to find all unique triplets from an array of elements. " 
 
+" Day 26 : Today, i solved a problem where i need to find array height where height[i] represents the height of a vertical line at index i. Choose two lines that, together with the x-axis, form a container that holds the most water. Return the maximum amount of water the container can store. "
+
