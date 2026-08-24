@@ -17,7 +17,6 @@ def containerWithMostWater(arr):
 
     return max_area
 
-
 print(containerWithMostWater([1,8,6,2,5,4,8,3,7]))
 print(containerWithMostWater([1,1]))
 print(containerWithMostWater([4,3,2,1,4]))
