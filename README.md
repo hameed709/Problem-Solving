@@ -50,3 +50,5 @@
 
 " Day 26 : Today, i solved a problem where i need to find array height where height[i] represents the height of a vertical line at index i. Choose two lines that, together with the x-axis, form a container that holds the most water. Return the maximum amount of water the container can store. "
 
+" Day 27 : Today, i solved a problem where i need to find the position of a number in an array which is sorted first and then rotated. Here, i have used binary search technique to find the target number. If the position of the target number is not found then i have to return -1. "
+
