@@ -52,3 +52,5 @@
 
 " Day 27 : Today, i solved a problem where i need to find the position of a number in an array which is sorted first and then rotated. Here, i have used binary search technique to find the target number. If the position of the target number is not found then i have to return -1. "
 
+" Day 28 : Today, i solved a problem where i need to find the minimum element in the array which is sorted in ascending order and then rotated. "
+
