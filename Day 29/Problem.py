@@ -14,3 +14,7 @@ def numFrequency(nums, k):
             cost = nums[right] * (right - left + 1) - window_sum
         max_freq = max(max_freq, right - left + 1)
     return max_freq
+
+print(numFrequency([1,2,4],5))
+print(numFrequency([1,4,8,13],5))
+print(numFrequency([3,9,6],2))
